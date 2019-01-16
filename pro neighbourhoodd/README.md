@@ -1,4 +1,4 @@
-# Udacity Full Stack2 Neighborhood Map Project
+## Neighborhood Map Project
 This appliation is used to demonstrate the use of Google api and Java Script framework.
 
 ## Code
