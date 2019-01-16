@@ -1,0 +1,71 @@
+.sidebar_width {
+    min-width: 350px;
+}
+
+.app_title {
+    padding: 12px 3px 7px 3px;
+}
+
+.location_list {
+    padding: 5px 5px 5px 5px;
+}
+
+.sidebar_hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(255,255,254,1);
+}
+
+.iw_title {
+    font-size: 1.4em;
+}
+
+.iw_address_title {
+    margin-bottom: 2px;
+    font-size: .91em;
+}
+
+.foursquare {
+    position: absolute;
+    bottom: 1.5px;
+    width: 50%;
+    right: 0;
+}
+
+.map_error {
+    color: black;
+    position: absolute;
+    top: 55%;
+    width: 100%;
+    text-align: center;
+}
+
+.padding-zero {
+    padding: 0 0 0 0;
+}
+
+.iw_subtitle {
+    font-size: 1em;
+}
+
+.padding-sides-10 {
+    padding: 0 11px 0 11px;
+}
+
+.search {
+    width: 100%;
+    font-size: .9em;
+}
+
+.iw_address {
+    margin-bottom: 0.3;
+    font-size: .9em;
+}
+
+@media (max-width: 768px) {
+    .search {
+        font-size: .8em;
+        margin-top: 6px;
+    }
+}
